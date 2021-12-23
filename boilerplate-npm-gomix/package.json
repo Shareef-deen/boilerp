@@ -5,8 +5,7 @@
 	"version": "1.2.1", 
 	"keywords": [ "freecodecamp", "Node", "backend" ],
 	"license": "MIT",
-	"dependencies": {
-		"moment": "^2.10.2",
+	"dependencies": { 
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
