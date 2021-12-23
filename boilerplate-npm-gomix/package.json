@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Sherif Suleman",
 	"description": "A project that helps to better Node.js",
-	"keywords" : [ "Javascript", "Node", "backend", "freecodecamp" ],
+	"keywords" : [ "freecodecamp"", "Node", "backend" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
